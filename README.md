@@ -1,6 +1,7 @@
 # Campuran
 
 ### catatan 1
+
 ```sh
 mysqldump -u root namadb > db.sql
 
