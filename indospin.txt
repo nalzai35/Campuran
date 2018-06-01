@@ -1,0 +1,689 @@
+{ada banyak|ada beberapa|terdapat banyak|terdapat beberapa}
+{adalah|menjadi|sebagai|ialah|merupakan}
+{adalah|yaitu|yakni|ialah}
+{ada|berada}
+{ada|terdapat}
+{agar bisa|buat|agar dapat|supaya bisa|supaya dapat|untuk dapat}
+{akan|akan juga|juga|juga akan}
+{akan|bakal dapat|akan dapat}
+{akan|bakal}
+{akhirnya|hasilnya|alhasil}
+{alami penurunan|mengalami penurunan|menurun}
+{alami|mengalami}
+{ambil|mengambil}
+{anda|kamu}
+{animo|apresiasi}
+{apa pun|apapun}
+{apabila|kalau|seandainya|bila}
+{arena|ajang}
+{arti dari|maksud dari}
+{arti|makna|istilah}
+{arti|makna}
+{ataupun|atau|maupun}
+{awal mulanya|awal mulanya|pada mulanya|mula-mula|pada awalnya}
+{awal|dini}
+{bagian-bagian|bagian bagian|beberapa bagian}
+{bagian|segi|sisi}
+{bagian|sektor|bidang}
+{bagus|menawan|apik|indah|keren}
+{bahkan juga|bahkan}
+{baik|bagus|ideal}
+{banyak|ada banyak|jumlah|beberapa|banyaknya}
+{banyak|sangat banyak|amat banyak|ada banyak|banyak sekali}
+{baru saja|barusaja|belumlah lama|tidak lama|belum lama}
+{barusan|belum lama|tidak lama|baru saja}
+{basic|dasar}
+{beberapa hal|perihal|hal-hal}
+{beberapa kali|terakhir kali|kesekian kali}
+{beberapa orang|orang-orang}
+{beberapa puluh|puluhan}
+{beberapa ratus|ratusan}
+{beberapa tempat|tempat-tempat}
+{beberapa|banyak|para}
+{beberapa|sebagian|bebrapa}
+{beberapa|sebagian}
+{beberapa|sejumlah}
+{beda|lain}
+{begitu|sangatlah|benar-benar|sangat}
+{bekas|eks|mantan}
+{belum juga|belum pula|belum}
+{belumlah ada|belum ada}
+{benar-benar|sungguh-sungguh}
+{berada di|berada pada|ada pada|ada di}
+{berada|bertempat|berlokasi}
+{beragam|bermacam|beraneka|berbagai}
+{beralih|berganti|berubah|berpindah}
+{berarti|bermakna}
+{berarti|mempunyai arti|punya arti|artinya}
+{berasumsi|beranggap|berpikiran|menganggap}
+{berawal|berasal|diawali|dimulai|bermula}
+{berbeda|berlainan|tidak sama|tidak serupa}
+{berbentuk|bersifat|berwujud|berupa}
+{berbuntut|berakhir|berujung}
+{bercahaya|bersinar}
+{berdasar pada|menurut|berdasarkan}
+{berdasarkan|berdasar}
+{berencana|memiliki rencana|merencanakan}
+{bergantung|terkait|tergantung}
+{berhasil|sukses}
+{beribadah|ibadah}
+{berikan|memberi}
+{beri|tambahkan|kasih|tunjukkan|berikan}
+{berkwalitas|bermutu|memiliki kualitas|memiliki kwalitas|berkualitas}
+{berlainan|tidak sama|tidak serupa|berbeda}
+{berlangsung|berjalan|terjadi}
+{bermacam|beraneka|beragam}
+{bermakna|artinya|berarti}
+{bermanfaat|berfaedah|berfungsi|berguna}
+{berolahraga|olah-raga|olahraga}
+{beroperasi di sektor|beroperasi di bagian|beroprasi di sektor|beroprasi di bagian|bergerak di bidang}
+{berpedoman|berlandaskan|menjalankan|memegang|menganut}
+{bersihkan|membersihkan}
+{bertandang|berkunjung}
+{bertukar|berpindah|berubah|berganti}
+{berumur|berusia}
+{berupa|bersifat|berwujud|berbentuk}
+{berusaha|mengusahakan|mengupayakan|berupaya}
+{betul-betul|sungguh-sungguh|nyata-nyata|serius|benar-benar}
+{bhs|bahasa}
+{biasanya|kebanyakan|umumnya}
+{biasanya|umumnya|pada umumnya}
+{bicara|berkata|berbicara}
+{bila|andaikan|apabila|jikalau|kalau|misalnya|seandainya|jika}
+{bila|apabila|seandainya|kalau}
+{bisa saja|dapat saja|dimungkinkan}
+{bisa|mampu|sanggup|dapat}
+{buat|bikin|membuat}
+{bukan sekedar|bukan hanya|bukan cuma|tidak cuma|tidak sekedar|tidak hanya}
+{bukanlah|bukan hanya|bukan}
+{buka|membuka}
+{butuh|perlu}
+{camera|kamera}
+{catat|tulis}
+{ciri khas|unik|khas}
+{classic|klasik}
+{cocok|sesuai|serasi|pas}
+{contoh|umpama|misal}
+{cukup|cukuplah}
+{cuma|hanya}
+{dahulu|dulu}
+{dalam artian|dalam pengertian}
+{dalam rencana|dalam rangka}
+{dalam soal|dalam hal}
+{dalam|ke dalam|kedalam}
+{dan|juga|serta}
+{dan|serta|dan juga}
+{dapat juga|bisa juga|juga dapat}
+{dapat|bisa|sanggup|mampu}
+{dapat|bisa}
+{dari mulanya|dari awalnya|dari sebelumnya}
+{datang dari|berasal dari}
+{debut|kiprah}
+{dengan diawali|diawali terlebih dulu dengan|dengan terlebih dulu diawali|diawali dengan}
+{dengan hal tersebut|sebab itu|dengan begitu|dengan demikian}
+{dengan kata lain|dengan sebutan lain|alias}
+{dengan terdapatnya|oleh karena ada|karenanya ada|adanya|dengan adanya}
+{dengan|berbarengan|bersama-sama|bersama}
+{dengan|bersama-sama|beserta|bersama dengan}
+{dengan|dengan cara|secara}
+{design|rancangan|desain}
+{di banding|dibandingkan|ketimbang|dibanding}
+{di bandrol|dibandrol|dibanderol}
+{di bawah ini|dibawah ini|inilah|berikut|berikut ini}
+{di beberapa|di berapa|di banyak|di berbagai}
+{di beri|diberi}
+{di besarkan|dibesarkan}
+{di bintangi|diaktori|di aktori|dibintangi}
+{di buat|dibuat}
+{di buka|dibuka}
+{di ciptakan|dibuat|diciptakan}
+{di dukung|dapat dukungan|mendapat dukungan|didukung}
+{di gelar|digelar}
+{di inspirasi|diinspirasi|mendapat inspirasi|memperoleh ide|memperoleh inspirasi|mendapat ide|terinspirasi}
+{di jual|dipasarkan|dijual}
+{di kenal|dikenal}
+{di ketahui|didapati|diketahui}
+{di mana|dimana}
+{di pimpin|dipimpin}
+{di produksi|dibuat|diproduksi}
+{di sampaikan|diungkapkan|disampaikan}
+{di semua|di seluruh|diseluruh}
+{di tangkap|ditangkap}
+{di tawarkan|ditawarkan}
+{di terima|diterima}
+{di turunkan|diturunkan}
+{diakui|diyakini|dipercaya}
+{diambil|dilansir|dikutip}
+{diantara|pada|di antara}
+{diasumsikan|dianggap|diibaratkan|diasosiasikan}
+{diatas|di atas}
+{diawali|di mulai|di awali|dimulai}
+{dibagian|pada bagian|di sisi|pada sisi|di bagian}
+{dibanding|ketimbang|dibandingkan}
+{diberi|dilengkapi|dibekali}
+{dibuat|di bangun|didirikan|di-bangun|dibangun}
+{dibuka|diakses}
+{dicapai|digapai|diperoleh|diraih}
+{didalam|di dalam}
+{didapati|dijumpai|ditemui}
+{didapati|ditemui|dijumpai}
+{didunia|di dunia}
+{digunakan|dipakai|dimanfaatkan|diperlukan|difungsikan}
+{diharuskan|harus|hendaknya|disarankan|diwajibkan}
+{dihilangkan|dihancurkan|dimusnahkan}
+{dijagokan|digadangkan|diunggulkan|digadang-gadang}
+{dikatakan sebagai|disebut yaitu|disebut sebagai}
+{dikatakannya|dijelaskannya|disebutkannya|disampaikannya}
+{dikenalkan|diperkenalkan}
+{dikerjakan|dilaksanakan|dijalankan|ditunaikan|dilakukan}
+{diketemukan|ditemukan}
+{dikumpulkan|dihimpun|jadikan satu|disatukan}
+{dilaunching|di rilis|dirilis}
+{diletakkan|diposisikan|di letakkan|ditaruh|ditempatkan}
+{diluar itu|selain itu}
+{dimaksud|disebut}
+{dimana|di mana}
+{dinamakan|dinamai}
+{dinamakan|disebut|diberi nama}
+{dipadukan|digabungkan|dipadupadankan|dikombinasikan}
+{dipakai|dimanfaatkan|difungsikan|diperlukan|digunakan}
+{dipandang|dikira|di anggap|di kira|dianggap}
+{dipercaya|di yakini|di percayai|dipercayai|diyakini}
+{diperlengkapi|ditambahkan|dilengkapi}
+{dipilih|terpilih}
+{dipimpin|di pimpin}
+{diprediksikan|di perkirakan|diperhitungkan|di prediksi|diperkirakan}
+{dirumah|di rumah}
+{disampaikan|dikatakan|di ucapkan|diucapkan}
+{disamping itu|sementara itu}
+{disana|di sana}
+{disangka|dikira|diduga}
+{disebutkan|di katakan|di sebutkan|dikatakan}
+{disediakan|di sediakan|di siapkan|disiapkan}
+{diterima|disambut}
+{ditetapkan|tergantung|ditentukan}
+{ditranslate|dialihkan|dialih bahasa|diterjemahkan}
+{ditukar|diganti}
+{ditulis|diberitakan|dilansir}
+{diyakini|diikuti|dipercayai|dianut}
+{dsb|dan seterusnya|dan lain-lain|dll|etc|dan sebagainya}
+{era|zaman|masa|abad}
+{evaluasi|pembelajaran}
+{favorit|teratas|unggulan}
+{feature|fitur}
+{gabungan|kombinasi|kompilasi}
+{gampang|enteng|mudah}
+{golongan|para|kelompok|kaum}
+{group|kelompok|grup}
+{hal semacam ini|hal tersebut|hal ini}
+{hanya satu|salah satu|cuma satu|satu-satunya}
+{hanya|cuman|sekedar|cuma}
+{harus|mesti|perlu|kudu|wajib}
+{hasilkan|membuahkan|menghasilkan}
+{hemat|irit}
+{himpunan|kelompok|kumpulan}
+{hindari|menjauhi|jauhi|menjauhkan|menghindari}
+{hingga|maka|jadi|makanya|sehingga}
+{hingga|sampai}
+{histori|peristiwa|sejarah}
+{hp|telpon seluler|mobile phone|telephone seluler|ponsel}
+{ikut serta|turut serta|terlibat}
+{ikut|turut}
+{ilmu dan pengetahuan|ilmu pengetahuan}
+{imbuhnya|tambahnya}
+{info|kabar|informasi}
+{inginkan|menghendaki|mengidamkan|mendambakan|ingin|menginginkan}
+{ingin|pengin|pengen|mau}
+{ini|ini juga}
+{itu.|tersebut .}
+{itu|tersebut}
+{jadikan|membuat|menjadikan}
+{jadi|maka}
+{jadi|menjadi|sebagai}
+{jadi|menjadi}
+{jadi|tambah|malah}
+{jalan|berjalan}
+{jaman|era|masa|zaman}
+{jam|waktu|pukul}
+{jangan sampai|janganlah}
+{janganlah|jangan sampai|jangan}
+{jelas|terang}
+{juga akan|bakal|dapat|mau|akan}
+{juga|lantas|pun}
+{juga|pula}
+{juta-an|jutaan}
+{kadang-kadang|terkadang|kadangkala|adakalanya|sesekali}
+{kalau|bahwa}
+{kalimat|kata-kata}
+{kampus|universitas}
+{karenanya|karena itu|oleh karena itu|sebab itu|maka dari itu|untuk itu}
+{karena|karna|akibatnya|akibat}
+{karir|karier}
+{karna|lantaran|dikarenakan|karena}
+{ke-2|ke dua|kedua}
+{ke-3|ke tiga|ketiga}
+{ke-5|ke lima|kelima}
+{keadaan|situasi|kondisi}
+{keberhasilan|kemajuan|kesuksesan}
+{kebiasaan|rutinitas|adat|etika|tradisi}
+{kecuali|terkecuali}
+{kehadiran|kedatangan}
+{keinginan|asa|harapan}
+{kekuatan|kapabilitas|kebolehan|keahlian|kemampuan}
+{kelebihan|keunggulan|keistimewaan}
+{kelebihan|keunggulan}
+{kelompok|category|definisi|kategori}
+{kelompok|golongan|komunitas|kalangan}
+{keluarkan|mengeluarkan}
+{keluar|nampak|tampil|terlihat|muncul}
+{kemampuan|kapabilitas|kebolehan|kekuatan}
+{kemampuan|kapasitas}
+{kemampuan|kinerja}
+{kemarin.|waktu lalu.|saat lalu.|saat kemarin.|lalu .}
+{kemudian|sesudah itu|seterusnya|selanjutnya|setelah itu}
+{kenakan|memakai|mengenakan}
+{kepercayaan|keyakinan}
+{kesangsian|kecurigaan|keraguan}
+{keseharian|sesehari|sehari-hari}
+{keseluruhan|total}
+{keseluruhnya|seluruh|total|keseluruhan}
+{kesempatan ini|kali ini}
+{kesempatan|peluang}
+{kesepakatan|perjanjian|persetujuan}
+{kesepakatan|persetujuan|perjanjian}
+{ketentuan|keputusan|ketetapan}
+{ketentuan|ketetapan|aturan|peraturan}
+{ketentuan|ketetapan|keputusan}
+{ketertarikan|gairah|minat|antusiasme}
+{ketertarikan|gairah|minat|antusias}
+{ketidaksamaan|ketaksamaan|perbedaan}
+{ketika|saat|pada waktu|pada saat}
+{keyakinan|kepercayaan}
+{khusus|spesifik}
+{khusus|teristimewa|ekslusif|spesial}
+{kiprahnya|debutnya}
+{kiprah|debut}
+{kirim|mengantar|mengirimkan}
+{komune|populasi|komunitas}
+{kondisi|situasi|keadaan}
+{konsumsi|mengonsumsi|mengkonsumsi}
+{kuat|kokoh|tangguh}
+{kuat|tangguh|kokoh}
+{kurun waktu|dalam tempo|jangka waktu|dalam waktu}
+{kwalitas|mutu|kualitas}
+{lain|beda}
+{lakukan|laksanakan|melaksanakan|jalankan|melakukan}
+{lalu|lantas|selanjutnya|kemudian}
+{langkah|cara}
+{lebih detilnya|selengkapnya|lebih jelasnya|lebih lengkapnya}
+{lebih kurang|kira-kira|sekitar|kurang lebih}
+{lelaki|laki laki|laki-laki}
+{lepas|terputus|terlepas}
+{lewat|melalui}
+{lihat|menyaksikan|memandang|melihat}
+{lokasi|daerah|area|kawasan}
+{lokasi|wilayah}
+{makanan dan minuman|makanan serta minuman|minuman dan makanan}
+{makin|jadi lebih|jadi tambah|semakin}
+{makna|arti}
+{malah|malahan|justru}
+{manfaat|faedah|guna}
+{masak|matang}
+{masalah|bab|soal}
+{masih tetap|masihlah|masih}
+{masuk|memasuki}
+{masyarakat|penduduk}
+{maupun|atau pun|mau pun|ataupun}
+{melakukan aktivitas|mengerjakan aktivitas|beraktivitas}
+{melakukan|menekuni|menjalani}
+{melaunching|meluncurkan|merilis}
+{melihat|memandang}
+{melihat|menyaksikan|lihat|memirsa|saksikan|menonton}
+{melindungi|memelihara|merawat|menjaga}
+{melukiskan|menggambarkan}
+{memahami|mengerti|mengetahui|paham}
+{memakai|menggunakan|mengfungsikan|gunakan|manfaatkan|memanfaatkan}
+{memandang|menatap}
+{memanglah|benar-benar|memang}
+{memastikan|tentukan|menentukan}
+{membangun|dirikan|mendirikan}
+{memberikan indikasi|mengindikasikan}
+{memberikan|memberi tambahan|mengimbuhkan|beri tambahan|menambahkan}
+{memberi|berikan|memberikannya|memberikan}
+{membuatnya|menjadikannya}
+{membuat|menciptakan}
+{membuat|mendirikan|bangun|membangun}
+{membuat|menghadirkan|mengadakan}
+{memenangkan|jadi pemenang|menjadi pemenang|meraih kemenangan|memenangi}
+{memiliki hak|punya hak|berhak}
+{memiliki kandungan|mempunyai kandungan|punya kandungan|mengandung}
+{memiliki ukuran|mempunyai ukuran|berukuran}
+{memiliki|berkapasitas}
+{memiliki|miliki|punya|punyai|mempunyai}
+{mempelajari|menelaah|meneliti}
+{memperoleh|beroleh|mendapatkan|mendapat}
+{memperoleh|beroleh|mendapatkan}
+{mempunyai|miliki|punya|punyai|memiliki}
+{menampik|menolak}
+{menangani|menanggulangi|mengatasi}
+{mencakup|meliputi}
+{mencapai|menggapai|mendapatkan|beroleh|memperoleh|meraih}
+{mendatangkan|menghadirkan}
+{menebar|menyebar}
+{menempatkan|letakkan|meletakkan}
+{meneruskan|menyambung|menambahkan|melanjutkan}
+{mengacu|menunjuk|merujuk}
+{mengakibatkan|sebabkan|membuat|memicu|membawa dampak|menyebabkan}
+{mengakui|mengaku}
+{mengaku|menyadari|mengakui}
+{mengambil|mencuri}
+{mengasyikkan|menggembirakan|menyenangkan}
+{mengatakan|memanggil|menyebut}
+{mengatakan|menyampaikan|ucapkan|katakan|mengucapkan}
+{mengedar|beredar}
+{mengemukakan|memberikan|menyampaikan}
+{mengenai|adapun}
+{mengenai|perihal|terkait|berkenaan|tentang}
+{mengenalkan|memperkenalkan}
+{mengetahui|kenal|tahu|mengenal}
+{menggunakan|memanfaatkan|pakai|memakai}
+{mengikuti|bersama|menyertai}
+{menginginkan|inginkan|mengidamkan|mendambakan|ingin|menghendaki}
+{menginginkan|mau|pingin|ingin}
+{mengkalkulasi|menghitung}
+{mengkonsumsi|mengonsumsi|konsumsi}
+{menguasai|dominan}
+{menguatkan|kuatkan|memperkuat}
+{meninggal dunia|wafat}
+{menjadikan satu|jadikan satu|menyatukan}
+{menjangkau|meraih|menggapai|capai|mencapai}
+{menjelaskan|memaparkan|menuturkan}
+{menukar|mengambil alih|menggantikan}
+{menyamai|mengimbangi|menyamakan}
+{menyatakan|mengatakan|mempertegas|menegaskan}
+{menyebabkan|menimbulkan|menjadikan|memicu|akibatkan|mengakibatkan}
+{menyebar|tersebar}
+{menyebutkan|mengatakan|menjelaskan|menyatakan}
+{menyebutkan|menyampaikan|mengemukakan|menuturkan|mengatakan}
+{menyembunyikan|sembunyikan}
+{menyetujui|menyepakati}
+{menyimpan|menampung}
+{merajut|menjalin}
+{merubah|mengganti|membuat perubahan|mengubah}
+{merujuk|berpedoman|mengacu}
+{meskipun demikian|walau begitu|walau demikian|walaupun demikian|meski begitu}
+{mesti|harus}
+{meyakini|mengakui|mempercayai}
+{milik|punya|kepunyaan}
+{model|mode}
+{moderen|modern}
+{moment|even|momen|event}
+{momen|moment|peristiwa}
+{mudah-mudahan|semoga}
+{muka|wajah}
+{mulai sejak|sejak mulai|sejak}
+{mulai|mengawali|memulai}
+{munculnya|timbulnya}
+{nada|suara}
+{nampaknya|terlihat|kelihatannya|tampaknya}
+{namun|akan tetapi|tapi|tetapi}
+{namun|tetapi|tapi}
+{nanti|kedepannya|selanjutnya|ke depannya|nantinya}
+{narasi|cerita}
+{nikmati|menikmati}
+{nyaris|hampir}
+{oleh karenanya|oleh sebab itu|oleh karena itu}
+{on-line|on line|online}
+{orang-orang|warga|penduduk|masyarakat}
+{pada akhirnya|selanjutnya|akhirnya}
+{pada saat|pada waktu|pada kala|semasa|pada masa}
+{pada umumnya|untuk beberapa umumnya|secara umum}
+{padamu|kepada kamu|pada kamu|kepadamu}
+{padanya|kepadanya}
+{pada|antara}
+{pada|kepada|terhadap}
+{pada|terhadap|kepada}
+{pakar|ahli}
+{paling akhir|terakhir}
+{paling baik|terbaik}
+{paling baru|terkini|teranyar|terakhir|terbaru}
+{paling besar|terbesar}
+{paling tidak|kurang lebih|sekurang-kurangnya|sedikitnya|minimal|semestinya|setidaknya}
+{paling utama|utama}
+{panduan|arahan|anjuran|wejangan|saran|petunjuk}
+{panorama|pemandangan}
+{pastinya|tentu|tentunya}
+{pasti|tidak mustahil|kemungkinan besar|niscaya}
+{pas|persis|tepat}
+{peluang|kesempatan}
+{pemakai|pengguna}
+{pemirsa|pirsawan|penonton}
+{penambahan|tambahan}
+{penampilan|penampakan|tampilan}
+{penebar|penyebar}
+{pengagum|pecinta|fans|penggemar}
+{pengetahuan|ilmu}
+{penggunaan|pemanfaatan|pemakaian}
+{penghubung|perantara}
+{pengucapan|perkataan}
+{penjelasan|review|uraian|ulasan}
+{penting|berarti|vital|signifikan}
+{penuhi|memenuhi}
+{penyebabnya|pemicu|yang memicu|penyebab}
+{penyuplai|pensuplai|pemasok}
+{peranan|manfaat|kegunaan|guna|fungsi}
+{perform|performa}
+{pergerakan|gerakan}
+{perkembangan|pertumbuhan}
+{perkembangan|perubahan|kemajuan}
+{pernah|sempat}
+{pernyataan|pengakuan}
+{perolehan|pencapaian}
+{peroleh|miliki|dapatkan}
+{perseteruan|konflik}
+{pertama kalinya|saat kali pertama|saat pertama kalinya|waktu pertama kalinya|pertama kali}
+{pindah|hijrah}
+{populer|kondang|tenar|terkenal}
+{prasyarat|ketentuan|syarat}
+{prima|sempurna}
+{pro-kontra|pro kontra|kontroversi}
+{product|produk}
+{propinsi|provinsi}
+{referensi|rujukan|panutan|acuan}
+{rencana|rancangan|konsep}
+{rilis|peluncuran|launching}
+{riset|analisa|kajian|analisis|pengamatan|study|studi|penelitian}
+{ruangan|area|ruang}
+{ruang|area|tempat|ruangan}
+{ruang|ruangan|area}
+{rubuh|roboh|jatuh|tumbang}
+{rujukan|rekomendasi|referensi}
+{rumah sakit|rumah sakit}
+{saat ini|sekarang}
+{saat malam|waktu malam|pada malam}
+{saat|kala|waktu|disaat|dikala|ketika}
+{saat|masa|waktu|kala}
+{sahabat|teman dekat|kawan akrab|kawan dekat|teman akrab|sobat}
+{saksikan|tengok|simak|lihat}
+{sama dengan|setara dengan}
+{sama juga dengan|sama seperti|sama dengan}
+{sama|mirip|serupa}
+{sampai kini|sejauh ini|selama ini}
+{sampai|hingga}
+{sangat terpaksa|terpaksa sekali|terpaksa}
+{sangka|kira|duga}
+{sarana|layanan|fasilitas}
+{satu diantara|diantara satu|salah satunya|di antara|diantara|salah satu}
+{satu diantara|salah satunya dari|salah satu dari}
+{satu hari|satuhari|1 hari|sehari}
+{satu|satu buah|suatu|sebuah}
+{satu|suatu}
+{saya|aku}
+{sebagai|bertindak sebagai|selaku}
+{sebagian besar|mayoritas}
+{sebagian|berapa|lebih dari satu|beberapa}
+{sebelahnya|sampingnya}
+{sebelumnya|saat sebelum|sebelum saat|sebelum}
+{sebenarnya|kenyataannya|sebetulnya|sesungguhnya}
+{sedang|dan|sedangkan}
+{segera|langsung}
+{segi|faktor|aspek}
+{sejak|semenjak}
+{sejumlah|banyak|jumlah|sekitar|sebanyak}
+{sekali lagi|kembali|lagi}
+{sekalian|sekaligus}
+{sekarang ini|sekarang|waktu ini|saat ini}
+{sekian waktu lalu|beberapa saat lalu|beberapa lain waktu|beberapa waktu lalu}
+{sekian waktu|beberapa hari|sekian hari|beberapa waktu}
+{sekitaran|seputar|lebih kurang|kurang lebih|kira-kira|sekitar}
+{sekitar|kira-kira|berkisar}
+{selalu|senantiasa|terus}
+{selama|sepanjang}
+{selanjutnya|setelahnya|setelah itu|sesudahnya}
+{semakin banyak|tambah banyak|lebih banyak}
+{semakin besar|tambah besar|lebih besar}
+{semakin|tambah|jadi|makin lama|makin}
+{semasing|masing-masing}
+{sembari|sambil}
+{sempat|pernah}
+{semuanya|seluruhnya|segalanya}
+{semuanya|seluruh|segala|seluruhnya|semua}
+{semua|segala}
+{semua|seluruhnya|semuanya}
+{semua|seluruh}
+{senang|girang|gembira}
+{senantiasa|tetap|selamanya|selalu}
+{seorang|seseorang}
+{sepadan|seimbang|sesuai|sebanding}
+{sepanjang|selama}
+{seperti|layaknya}
+{seperti|sama seperti|sebagaimana}
+{seringkali|berulangkali|kerapkali|berkali-kali|terlalu sering|sudah sering}
+{seringkali|kerap|kerapkali|sering}
+{serta|dan}
+{sesaat|sementara}
+{seseorang|seorang}
+{sesi|set|fase|tahap|babak}
+{session|sesion|sesi}
+{sesudah|sehabis|setelah}
+{sesungguhnya|memang|sebetulnya|sejujurnya|sebenarnya}
+{setiap|tiap-tiap|tiap tiap|tiap}
+{seutuhnya|semuanya|seluruhnya|sepenuhnya}
+{simpel|simple|sederhana}
+{sinar|cahaya}
+{sisi|area|bagian}
+{sisi|segi}
+{sistem|proses}
+{situasi|kondisi|keadaan|suasana}
+{situs|halaman|web|laman}
+{spesial|privat|teristimewa|pribadi|khusus}
+{spesifik|khusus|tertentu}
+{stabilitas|kestabilan}
+{suatu hal|sesuatu}
+{sudah pasti|pastinya|tentunya|tentu saja}
+{sudah|udah|telah}
+{suka|senang|cinta|gemar}
+{supaya|biar|agar}
+{susunan|struktur}
+{system|sistim|sistem}
+{tak ada|tdk ada|tiada|tidak ada}
+{tak akan|tak lagi|tak kan|tidak akan|tidak lagi}
+{tambah baik|lebih baik}
+{tampak|kelihatan|nampak|terlihat}
+{tampak|nampak|terlihat|tampil}
+{tampilan|penampilan}
+{tanpa ada|tanpa}
+{taraf|skala}
+{tayangan|siaran}
+{tehnologi|technologi|teknologi}
+{telah|sudah|udah}
+{telah|udah|sudah}
+{tempatnya|lokasinya}
+{tempat|area|lahan}
+{tempat|area|lokasi}
+{tempat|urutan|posisi}
+{tempo hari|kemarin}
+{tengahnya|tengah-tengah}
+{tengah|lagi tengah|sedang}
+{tentang|perihal|berkenaan|berkaitan|mengenai}
+{terakhir|belakangan}
+{terang|jelas}
+{teratas|terpuncak|paling tinggi|tertinggi}
+{terbagi dalam|terdiri dalam|terdiri dari}
+{terdapat|terletak}
+{tergantung|bergantung}
+{terhindar|terlewatkan|terlewat|terhindarkan}
+{terima|menerima}
+{terjadi|terbuat|terdapat|terbentuk}
+{terkadang|kadang kala|kadang waktu|sesekali|adakalanya|kadangkala|kadang-kadang}
+{terkecuali|kecuali}
+{terkecuali|tidak hanya|tidak cuman|selain}
+{terlebih dulu|terlebih dahulu|diawalnya|sebelumnya}
+{terlebih|khususnya|lebih-lebih|terutama}
+{terlebih|lebih-lebih|apalagi}
+{terlihat|kelihatan|tampak|nampak}
+{termasuk juga|termasuk}
+{termasuk|tergolong}
+{tersebut|itu sendiri}
+{tertangani|terurus|terawat}
+{terutama|paling penting|paling utama|terpenting}
+{tetap dalam|masih tetap dalam|masihlah dalam|masih dalam}
+{tetapi|akan tetapi|tapi|namun}
+{tetapi|namun|tapi|akan tetapi|melainkan}
+{tetaplah|masih|terus|tetap}
+{th.|tahun}
+{tiap-tiap|tiap tiap|setiap}
+{tidak ada|tdk ada|tiada}
+{tidak bisa|tidak dapat}
+{tidak cuma|tidak hanya|bukan cuma|bukan sekedar|tidak sekedar|bukan hanya}
+{tidak mau|tidak akan|tak ingin|tak mau|tidak ingin}
+{tidak sering|tidak terlalu sering|jarang}
+{tidak tebal|tipis}
+{tidaklah|bukan|bukanlah}
+{tidak|tak|tdk|tidak}
+{tidak|tdk|tak}
+{timbulnya|munculnya}
+{tingkah laku|tabiat|prilaku|perilaku}
+{tipe|model|jenis|type}
+{titel|gelar}
+{topik|bahasan|tajuk|judul|tema}
+{tubuh|badan}
+{tunjukkan|memberikan|memperlihatkan|membuktikan|perlihatkan|menunjukkan}
+{turunkan|menurunkan}
+{tuturnya|ujarnya|tukasnya|katanya}
+{tv|televisi}
+{type|model|tipe|style|jenis}
+{umpamanya|semisal|contohnya|misalnya}
+{umumnya|biasanya|rata-rata|beberapa|kebanyakan}
+{umumnya|kebanyakan|rata-rata|biasanya}
+{umum|biasa}
+{umum|publik}
+{umur|usia}
+{untuk|buat|bagi}
+{untuk|utk|buat|untuk}
+{usaha|bisnis}
+{usai|tuntas|selesai}
+{usia|umur}
+{versus|versi}
+{wafatnya|meninggalnya}
+{wafat|meninggal}
+{waktu|kala|selagi|pas|sementara|saat}
+{walaupun|meski|meskipun|walau}
+{walau|walaupun|meskipun|biarpun|kendati|meskipun}
+{walau|walaupun|meskipun|biarpun|meski}
+{wanita|perempuan}
+{website|web|web site|situs}
+{wujudkan|mewujudkan}
+{yaitu|ialah|yakni}
+{yaitu|merupakan|adalah}
+{yakini|yakin|mempercayai|percaya|meyakini}
+{yakin|percaya}
+{yakni|yaitu}
+{yang bisa|yang dapat}
+{yang didapatkan|yang di dapatkan|yang diberikan}
+{yang disebut|sebagai|yang merupakan}
+{yang lain|lainnya}
+{yang menyukai|yg suka|penyuka|yg menyukai|yang suka}
+{yang|yang juga}
+{yang|yg|yang}
+{yg tidak|yang tidak}
