@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Random Kata</title>
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+		<h1 style="text-align: center;">Random Kata</h1>
+
+		<div class="row">
+			<div class="col-md-6">
+
+		<script type="text/javascript">
+
+		
+
+			function shuffle(array) {
+			  var currentIndex = array.length, temporaryValue, randomIndex;
+
+			  // While there remain elements to shuffle...
+			  while (0 !== currentIndex) {
+
+			    // Pick a remaining element...
+			    randomIndex = Math.floor(Math.random() * currentIndex);
+			    currentIndex -= 1;
+
+			    // And swap it with the current element.
+			    temporaryValue = array[currentIndex];
+			    array[currentIndex] = array[randomIndex];
+			    array[randomIndex] = temporaryValue;
+			  }
+
+			  return array;
+			}
+
+
+			function acak(frm){
+				var tmipwords = frm.elements['kw'].value;
+				var arrTracemd = tmipwords.split(/\s+/);
+				var arrNewTracemd = [];
+				var seenTracemd = {};
+				for(var i=0;i<arrTracemd.length;i++) {
+				
+				if (!seenTracemd[arrTracemd[i]]) {
+				seenTracemd[arrTracemd[i]]=true;
+				arrNewTracemd.push(arrTracemd[i]);
+				}
+			}
+			var result3 = shuffle(arrNewTracemd).join(" ");
+			var result = result3.replace(/[^\w\s]/gi, " ");
+			frm.elements['outputText'].value = '<div style="overflow:auto;height:1px;">' + result + '</div>';
+
+			function WordCount(str) { 
+			  return str.split(" ").length;
+			}
+			// frm.elements['count'].value = WordCount(result);
+			document.getElementById('count').innerHTML = WordCount(result);
+			// console.log(WordCount("hello world"));
+
+			}
+
+			function removeSpecial(frm){
+				var kata = frm.elements['removespecial'].value;
+				var hasilnya = kata.replace(/[^a-zA-Z ]/g, " ");
+				document.getElementById('hasil').innerHTML = hasilnya;
+
+			}
+
+			function spasiToSt(frm){
+				var kata = frm.elements['removespecial'].value;
+				var hasilnya = kata.replace(/ /g, "-");
+				document.getElementById('hasil').innerHTML = hasilnya.toLowerCase();
+
+			}
+
+
+
+		</script>
+
+    	<form method="post" action="">
+    		<div class="form-group">
+                <textarea id="input" class="form-control" rows="15" cols="50" name="kw"></textarea>
+            </div>
+            <div class="form-group" style="text-align: center;">
+				<input type="button" class="btn btn-primary" value="Unik acak" onclick="acak(this.form);">
+				<!-- <input type="button" class="btn btn-primary" value="Unik Kebalik" onclick="uniqueTracemdRC(this.form);"> -->
+            </div>
+            <b>Count Words: </b><span id="count"></span>
+            <div class="form-group">
+                <textarea id="outputText" class="form-control" rows="15" cols="50" name="outputText"></textarea>
+            </div>
+    	</form>
+
+    	</div>
+
+			<div class="col-md-6">
+				<form action="" method="post">
+					<div class="form-group">
+		                <textarea id="input" class="form-control" rows="15" cols="10" name="removespecial"></textarea>
+		            </div>
+					<div class="form-group" style="text-align: center;">
+						<input type="button" class="btn btn-danger" value="- to Spasi" onclick="removeSpecial(this.form);">
+						<input type="button" class="btn btn-danger" value="Spasi to -" onclick="spasiToSt(this.form);">
+		            </div>
+		            <div id="hasil"></div>
+				</form>
+			</div>
+		</div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </body>
+</html>
