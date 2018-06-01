@@ -1,5 +1,6 @@
 # Campuran
 
+### catatan 1
 ```mysqldump -u root namadb > db.sql
 
 rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" --progress  /var/www/ root@173.222.222.222:/var/www/
