@@ -1,0 +1,6 @@
+rewrite ^/thumbs/(.*)\.jpg /image.php?th=$1 break;
+rewrite ^/images/(.*)\.jpg /image.php?img=$1 break;
+rewrite ^/pages/(.*) /index.php?page=$1 break;
+rewrite ^/(.*)/ /index.php?q=$1 break;
+rewrite ^/sitemap.xml /sitemap.php break;
+rewrite ^/robots.txt /sitemap.php break;
