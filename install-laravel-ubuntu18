@@ -30,3 +30,6 @@ $ sudo nano /etc/nginx/nginx.conf
 $ sudo nginx -t
 $ sudo systemctl restart nginx
 $ chown -R www-data:www-data /var/www/lara.dbmedia.stream
+
+#### untuk permission ###
+$ chown -R www-data:www-data
