@@ -1,0 +1,20 @@
+#### Install PHP 7.2 ####
+$ sudo apt update && apt upgrade -y
+$ sudo apt install php7.2 php7.2-cli php7.2-common php7.2-json php7.2-opcache php7.2-mysql php7.2-mbstring php7.2-zip php7.2-fpm php7.2-xml unzip -y
+
+#### Install MYSQL ####
+$ sudo apt install mysql-server
+$ mysql_secure_installation
+
+#### Install CURL ####
+$ sudo apt install curl
+
+#### Install COMPOSER ####
+$ curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+$ sudo chown -R $USER ~/.composer/
+
+#### Install NGINX ####
+$ sudo apt install nginx
+
+#### Install Laravel ####
+$ composer create-project --prefer-dist laravel/laravel blog
