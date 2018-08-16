@@ -18,3 +18,14 @@ $ sudo apt install nginx
 
 #### Install Laravel ####
 $ composer create-project --prefer-dist laravel/laravel blog
+
+#### Configurasi Nginx ####
+$ sudo nano /etc/nginx/sites-available/lara.dbmedia.stream
+// isi dulu
+$ sudo ln -s /etc/nginx/sites-available/lara.dbmedia.stream /etc/nginx/sites-enabled/
+
+## Menghindari masalah memori dari penambahan domain baru
+$ sudo nano /etc/nginx/nginx.conf
+// hapus tanda "#" pada  = server_names_hash_bucket_size 64;
+$ sudo nginx -t
+$ sudo systemctl restart nginx
