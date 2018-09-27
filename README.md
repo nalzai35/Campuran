@@ -26,3 +26,11 @@ ee secure --auth
 ### untuk download yt ke mp3
 
 ```youtube-dl --extract-audio --audio-format mp3 -o '%(id)s.%(ext)s' https://www.youtube.com/watch?v=x_OwcYTNbHs```
+
+## Install AGC-youtube for ubuntu 18.04
+
+
+```
+apt update
+snap install ffmpeg
+```
