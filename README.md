@@ -31,6 +31,26 @@ ee secure --auth
 
 
 ```
-apt update
-snap install ffmpeg
+$ apt update
+
+# install ffmpeg 4.0.2
+$ snap install ffmpeg
+
+# install python
+$ apt install python3 -y
+$ alias python=python3
+$ apt install python-pip -y
+$ pip install --upgrade setuptools
+$ pip install --upgrade google-api-python-client
+$ pip install --upgrade oauth2client progressbar2
+
+# install youtube-upload
+$ wget https://github.com/tokland/youtube-upload/archive/master.zip
+$ apt install unzip && unzip master.zip
+$ cd youtube-upload-master && sudo python setup.py install
+$ cd
+
+# install google_images_download
+$ pip install google_images_download
+
 ```
