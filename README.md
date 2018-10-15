@@ -54,3 +54,8 @@ $ cd
 $ pip install google_images_download
 
 ```
+
+## Live Streaming Facebook
+```
+ffmpeg -re -y -i wayang.mp4 -acodec libmp3lame  -ar 44100 -b:a 128k -pix_fmt yuv420p -profile:v baseline -s 426x240 -bufsize 6000k -vb 400k -maxrate 1500k -deinterlace -vcodec libx264 -preset veryfast -g 30 -r 30 -f flv "rtmp://live-api-s.facebook.com:80/rtmp/295989717904221?ds=1&s_sw=0&s_vt=api-s&a=Abzh5U3d93vjpjtU"
+```
