@@ -73,3 +73,8 @@ ffmpeg -i video.mp4
 ```
 -metadata title="" -metadata artist="" -metadata album_artist="" -metadata album="" -metadata date="" -metadata track="" -metadata genre="" -metadata publisher="" -metadata encoded_by="" -metadata copyright="" -metadata composer="" -metadata performer="" -metadata TIT1="" -metadata TIT3="" -metadata disc="" -metadata TKEY="" -metadata TBPM="" -metadata language="eng" -metadata encoder=""
 ```
+
+### looping straming
+```
+ffmpeg -re -stream_loop -1 -i video.mp4 -c copy -f flv rtmp://a.rtmp.youtube.com/live2/xxxxxxxxxxxxxxx
+```
