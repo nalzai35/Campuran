@@ -59,3 +59,17 @@ $ pip install google_images_download
 ```
 ffmpeg -re -y -i wayang.mp4 -acodec libmp3lame  -ar 44100 -b:a 128k -pix_fmt yuv420p -profile:v baseline -s 426x240 -bufsize 6000k -vb 400k -maxrate 1500k -deinterlace -vcodec libx264 -preset veryfast -g 30 -r 30 -f flv "rtmp://live-api-s.facebook.com:80/rtmp/295989717904221?ds=1&s_sw=0&s_vt=api-s&a=Abzh5U3d93vjpjtU"
 ```
+
+## hapus metadata ffmpeg
+### melihat metadata
+```
+ffmpeg -i video.mp4
+```
+### hapus metadata
+```
+-map_metadata -1
+```
+### ganti metadata
+```
+-metadata title="" -metadata artist="" -metadata album_artist="" -metadata album="" -metadata date="" -metadata track="" -metadata genre="" -metadata publisher="" -metadata encoded_by="" -metadata copyright="" -metadata composer="" -metadata performer="" -metadata TIT1="" -metadata TIT3="" -metadata disc="" -metadata TKEY="" -metadata TBPM="" -metadata language="eng" -metadata encoder=""
+```
